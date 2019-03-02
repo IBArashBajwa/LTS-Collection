@@ -4,7 +4,7 @@ This is the work I've done in trying to create a lightweight text editor(s). I h
 
 An explanation to why there is a list, and not just one text editor, I noticed that creating one big, functioning while also being
 lightweight was going to be a difficult task, especially since I don't have mastery in any of the tools I am using. I was
-also using LÖVE for 3/4 of the LTE(s) created, I was using a tool created for game development, making it so that it does use a lot
+also using LÖVE for 3/4 of the LTE(s) created, I was using a tool created for game development, making it so that it does not use a lot
 of resources was difficult, but I managed to figure it out in LTE_2.
 
 Here's what each folder means, you can find more details if you scroll down (in order of creation):
@@ -39,7 +39,7 @@ You'll notice that the LTE had a GUI first, but I wasn't able to make it good, a
 
 **jLTE**: https://imgur.com/a/iH8VZMz
 
-The first picture shows how it looks, and the third picture (after the errors) shows the functionality of tabs. The last image is the research I've done before choosing Java, and then you'll see how I got by as being a beginner in Java. I must say that designing the UI was very difficult.
+The first picture shows how it looks, and the third picture (after the errors) shows the functionality of tabs. The last image is the research I've done before choosing Java, and then you'll see how I got by as being a beginner in Java. I must say that designing the UI was very difficult, but I managed to do it in the end.
 
 **LTE_2**: https://imgur.com/a/uEh1Yqi
 
