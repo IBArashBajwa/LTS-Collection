@@ -22,7 +22,7 @@ please create an issue). **Created using LÖVE 11.1**
 - **LTE_Syntax_Highlighting**: This is a very basic editor with no features, besides *syntax highlighting*, which the rest of the
 editors did not have. **Created using LÖVE 11.1**
 
-It is **license free**, in the other words you're free to use the code for any purposes and I will not be related in any way with what you've done.
+It is **MIT licensed**, in the other words you're free to use the code for all purposes and I will not be related in any way with what you used it for.
 
 With it being separated by feature/style/method, makes it easier for me to combine them into a new text editor, although it still would be
 difficult to make it lightweight, and it would require a lot of time and so attention.
